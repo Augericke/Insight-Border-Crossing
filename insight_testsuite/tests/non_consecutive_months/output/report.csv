@@ -1,0 +1,8 @@
+Border,Date,Measure,Value,Average
+US-Mexico Border,05/01/2019 12:00:00 AM,Pedestrians,100,0
+US-Canada Border,04/01/2019 12:00:00 AM,Truck Containers Empty,13110,0
+US-Mexico Border,02/01/2019 12:00:00 AM,Pedestrians,42000,56810
+US-Canada Border,02/01/2019 12:00:00 AM,Truck Containers Empty,1314,1310
+US-Mexico Border,01/01/2019 12:00:00 AM,Pedestrians,56810,0
+US-Canada Border,01/01/2019 12:00:00 AM,Truck Containers Empty,1310,0
+US-Mexico Border,01/01/2018 12:00:00 AM,Pedestrians,560,0

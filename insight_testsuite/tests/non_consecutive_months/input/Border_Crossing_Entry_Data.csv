@@ -1,0 +1,8 @@
+Port Name,State,Port Code,Border,Date,Measure,Value,Location
+Eagle Pass,Texas,2303,US-Mexico Border,05/01/2019 12:00:00 AM,Pedestrians,100,POINT (-100.49917 28.70889)
+Eagle Pass,Texas,2303,US-Mexico Border,02/01/2019 12:00:00 AM,Pedestrians,42000,POINT (-100.49917 28.70889)
+Eagle Pass,Texas,2303,US-Mexico Border,01/01/2019 12:00:00 AM,Pedestrians,56810,POINT (-100.49917 28.70889)
+Eagle Pass,Texas,2303,US-Mexico Border,01/01/2018 12:00:00 AM,Pedestrians,560,POINT (-100.49917 28.70889)
+Frontier,Washington,3020,US-Canada Border,04/01/2019 12:00:00 AM,Truck Containers Empty,13110,POINT (-117.78134000000001 48.910160000000005)
+Frontier,Washington,3020,US-Canada Border,02/01/2019 12:00:00 AM,Truck Containers Empty,1314,POINT (-117.78134000000001 48.910160000000005)
+Frontier,Washington,3020,US-Canada Border,01/01/2019 12:00:00 AM,Truck Containers Empty,1310,POINT (-117.78134000000001 48.910160000000005)
