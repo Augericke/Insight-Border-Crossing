@@ -75,7 +75,7 @@ def get_rolling_avg(agg_dict):
     Rolling average defined as: sum(total_past_values) / count(total_past_months)
     ------------
     Note: This function assumes that in order for an average to be rolling prior
-    months must consecutive. Non-consecutive months will result in that rolling
+    months must be consecutive. Non-consecutive months will result in that rolling
     average resetting.
     '''
     avg_list = []
