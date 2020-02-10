@@ -19,9 +19,9 @@ In general my approach followed:
 - Calculate Rolling Average
 - Write File
 
-In order to get the sum of values per group and montIn order to get the sum of values per group and month I opted to use a dictionary approach - which used a tuple constructed out of the defined groups for the key. As we read in the CSV the values per each group then gets added onto any existing keys - until the result is a dictionary with that same tuple and sum as the value.
+In order to get the sum of values per group and month I opted to use a dictionary approach - which used a tuple constructed out of the defined groups for the key. As we read in the CSV the values per each group then gets added onto any existing keys - until the result is a dictionary with that same tuple and sum as the value.
 
-For the rolling average a similar dictionary approach was also taken. However, in this case we looped through the resulting dictionary from the previous step and used an additional while loop search for and count the matching keys from proceeding months.
+For the rolling average a similar dictionary approach was also taken. However, in this case we looped through the resulting dictionary from the previous step and used an additional while loop to search for and count the matching keys from proceeding months.
 
 The following packages were also used in this assignment
 - sys  | Allow for user selection of the input file  
